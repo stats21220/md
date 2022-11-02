@@ -1,0 +1,1 @@
+export const ORDER_NOT_FOUND = 'Заказ с таким id не найден'

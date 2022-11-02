@@ -1,0 +1,5 @@
+export const FIND_USER_ERROR = 'Пользователь с таким email уже зарегистрирован'
+export const USER_ID_NOT_FOUND = 'пользователь с таким login не найден'
+export const USER_NOT_FOUND_ERROR = 'Пользователь не найден'
+export const USER_PASSWORD_ERROR = 'не верный пароль'
+export const USER_PHONE_ERROR = 'пользователь с таким номером телефона уже существует'
